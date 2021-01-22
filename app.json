@@ -11,15 +11,15 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot token from @Botfather",
+            "description": "1573785521:AAGOyjl0Mfok6z-HNmd25X7lS3ZC82vlI1g",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps ",
+            "description": "2421844 ",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps",
+            "description": "779fe41a408add3441fd599d8e77c984",
             "value": ""
         },
         "LOG_GROUP": {
